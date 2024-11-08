@@ -12,7 +12,12 @@
 // @match        https://www.meldkamerspel.com/buildings/*
 // @grant        none
 
-// ==/UserScript==
+// Release Notes:
+//
+// Versie: 1.1
+// Datum 2024-11-08
+// - Upload en share op github
+//
 
 //UITLEG
 
@@ -42,6 +47,8 @@
 
 //
 // Vul de gekozen ID in bij targetVehicleTypeId een paar regels verder.
+// ==/UserScript==
+
 
 
 (function() {
