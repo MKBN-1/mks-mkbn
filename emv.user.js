@@ -8,8 +8,8 @@
 // @homepage     https://github.com/MKBN-1/mks-mkbn/
 // @homepageURL  https://github.com/MKBN-1/mks-mkbn/
 // @supportURL   https://github.com/MKBN-1/mks-mkbn/issues
-// @downloadURL  https://raw.githubusercontent.com/MKBN-1/mks-mkbn/refs/heads/main/emv.js
-// @updateURL    https://raw.githubusercontent.com/MKBN-1/mks-mkbn/refs/heads/main/emv.js
+// @downloadURL  https://raw.githubusercontent.com/MKBN-1/mks-mkbn/refs/heads/main/emv.user.js
+// @updateURL    https://raw.githubusercontent.com/MKBN-1/mks-mkbn/refs/heads/main/emv.user.js
 // @grant        none
 // ==/UserScript==
 
