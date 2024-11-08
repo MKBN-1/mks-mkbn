@@ -11,6 +11,13 @@
 // @updateURL    https://raw.githubusercontent.com/MKBN-1/mks-mkbn/refs/heads/main/frkk.user.js
 // @match        https://www.meldkamerspel.com/missions/*
 // @grant        none
+
+// Release Notes:
+//
+// Versie: 1.1
+// Datum 2024-11-08
+// - Upload en share op github
+//
 // ==/UserScript==
 
 (function() {
