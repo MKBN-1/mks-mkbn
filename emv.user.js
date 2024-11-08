@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Eigen meldingen vullen
+// @name         Meldkamerspel - Eigen meldingen vullen
 // @namespace    http://tampermonkey.net/
 // @version      1.1.2
 // @description  Eigen meldingen vullen in de actieve tab of pagina.
