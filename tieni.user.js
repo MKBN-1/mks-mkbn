@@ -3,9 +3,22 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.1
 // @description  Zoek inzet- en indexnummer en combineer ze, dan weergeef op de pagina
+// @homepage     https://github.com/MKBN-1/mks-mkbn/
+// @homepageURL  https://github.com/MKBN-1/mks-mkbn/
+// @supportURL   https://github.com/MKBN-1/mks-mkbn/issues
+// @downloadURL  https://raw.githubusercontent.com/MKBN-1/mks-mkbn/refs/heads/main/tieni.user.js
+// @updateURL    https://raw.githubusercontent.com/MKBN-1/mks-mkbn/refs/heads/main/tieni.user.js
 // @author       Barbarossa
 // @match        https://www.meldkamerspel.com/*
 // @grant        none
+
+// Release Notes:
+//
+// Versie: 1.1
+// Datum 2024-11-08
+// - Upload en share op github
+//
+
 // ==/UserScript==
 
 (function() {
