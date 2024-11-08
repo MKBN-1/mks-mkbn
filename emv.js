@@ -5,6 +5,9 @@
 // @description  Voer het script uit in de actieve tab
 // @author       Barbarossa
 // @match        https://www.meldkamerspel.com/missions/*
+// @resource     https://forum.leitstellenspiel.de/index.php?thread/23382-script-lehrgangszuweiser-by-bos-ernie/
+// @downloadURL  https://update.greasyfork.org/scripts/461450/%2A%20Lehrgangszuweiser.user.js
+// @updateURL    https://update.greasyfork.org/scripts/461450/%2A%20Lehrgangszuweiser.meta.js
 // @grant        none
 // ==/UserScript==
 
