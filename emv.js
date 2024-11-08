@@ -5,8 +5,8 @@
 // @description  Voer het script uit in de actieve tab
 // @author       Barbarossa
 // @match        https://www.meldkamerspel.com/missions/*
-// @downloadURL  https://github.com/JRH-1997/Scripts-MKS/raw/Dev/Script-bundle/Scripts-MKS.user.js
-// @updateURL    https://github.com/JRH-1997/Scripts-MKS/raw/Dev/Script-bundle/Scripts-MKS.user.js
+// @downloadURL  https://github.com/MKBN-1/mks-mkbn/raw/refs/heads/main/emv.js
+// @updateURL    https://github.com/MKBN-1/mks-mkbn/raw/refs/heads/main/emv.js
 // @grant        none
 // ==/UserScript==
 
