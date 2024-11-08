@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Meldkamerspel - Eigen meldingen vullen
 // @namespace    http://tampermonkey.net/
-// @version      1.1.2
+// @version      1.1.3
 // @description  Eigen meldingen vullen in de actieve tab of pagina.
 // @author       Barbarossa
 // @match        https://www.meldkamerspel.com/missions/*
@@ -14,6 +14,11 @@
 // ==/UserScript==
 
 // Release Notes:
+//
+// Versie: 1.1.3
+// Datum 2024-11-08
+// - Gewijzigd: @name gewijzigd.
+//
 //
 // Versie: 1.1.2
 // Datum 2024-11-08
