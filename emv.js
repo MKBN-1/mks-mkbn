@@ -5,8 +5,13 @@
 // @description  Eigen meldingen vullen in de actieve tab of pagina.
 // @author       Barbarossa
 // @match        https://www.meldkamerspel.com/missions/*
-// @downloadURL  https://github.com/MKBN-1/mks-mkbn/raw/refs/heads/main/emv.js
-// @updateURL    https://github.com/MKBN-1/mks-mkbn/raw/refs/heads/main/emv.js
+// @homepage     https://github.com/MKBN-1/mks-mkbn/
+// @homepageURL  https://github.com/MKBN-1/mks-mkbn/
+// @supportURL   https://github.com/MKBN-1/mks-mkbn/issues
+// @updateURL    https://raw.githubusercontent.com/SaibotH-LSS/LSSFirstResponderReloaded/main/LSSFirstResponderReloaded.user.js
+// @downloadURL  https://raw.githubusercontent.com/SaibotH-LSS/LSSFirstResponderReloaded/main/LSSFirstResponderReloaded.user.js
+// @downloadURL  https://raw.githubusercontent.com/MKBN-1/mks-mkbn/refs/heads/main/emv.js
+// @updateURL    https://raw.githubusercontent.com/MKBN-1/mks-mkbn/refs/heads/main/emv.js
 // @grant        none
 // ==/UserScript==
 
