@@ -2,7 +2,7 @@
 // @name         Eigen meldingen vullen
 // @namespace    http://tampermonkey.net/
 // @version      1.1.2
-// @description  Voer het script uit in de actieve tab
+// @description  Eigen meldingen vullen in de actieve tab of pagina.
 // @author       Barbarossa
 // @match        https://www.meldkamerspel.com/missions/*
 // @downloadURL  https://github.com/MKBN-1/mks-mkbn/raw/refs/heads/main/emv.js
