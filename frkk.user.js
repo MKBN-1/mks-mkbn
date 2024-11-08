@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Meldkamerspel - FR Knop klikken
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  FR Knop klikken. Belangrijk is dat de FR Knop aan staat
 // @author       Barbarossa
 // @homepage     https://github.com/MKBN-1/mks-mkbn/
